@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1432527013 source:c:\users\ammar\desktop\chess game\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<string.h>
+
+1432555929 source:d:\murad khateeb abbasi\semester #2\introduction to programming\projects\chess game\chess game\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<string.h>
+
+1432555929 source:d:\murad khateeb abbasi\acadamics\semester #2\introduction to programming\projects\chess game\chess game\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<string.h>
+
+1432555929 source:d:\murad khateeb abbasi\acadamics\semester #2\introduction to programming\projects\a\chess game\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<string.h>
+
+1473935507 source:d:\murad khateeb abbasi\acadamics\semester #2\introduction to programming\projects\chess\chess game\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<string.h>
+
